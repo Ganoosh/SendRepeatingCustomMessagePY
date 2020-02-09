@@ -11,7 +11,7 @@ To run simply double click the .exe file<br>
   5: type <code>python SendRepeatingText.py</code><br>
 <br>
 <b>Linux:</b><br>
-1: Open Terminal
-2: Go cd to the files path <code>cd root/examplefolder/</code>
+1: Open Terminal<br>
+2: Go cd to the files path <code>cd root/examplefolder/</code><br>
 3: type <code>pip3 install keyboard</code><br>
 4: type <code>python3 SendRepeatingText.py</code><br>
