@@ -1,5 +1,6 @@
 # SendRepeatingCustomMessagePY
 <br>
+<br>To run as binary executable:</b><br>
 To run simply double click the .exe file<br>
 <br>
 <b>To run as python:</b><br>
