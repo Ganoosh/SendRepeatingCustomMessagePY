@@ -1,6 +1,6 @@
 # SendRepeatingCustomMessagePY
 This is a script where you can send a set amount or infinite amount of repeating custom strings, for example if you wanted to send <code>Example</code> every 1 second, 20 times. This would be the script for you.<br>
-<h3>To run as binary executable (.exe):</h3><br>
+<h3>To run as binary executable (.exe):</h3>
 To run simply double click the .exe file
 
 <h3>To run as python:</h3>
