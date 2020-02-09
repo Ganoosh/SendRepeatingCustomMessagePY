@@ -2,7 +2,7 @@
 <b>To run as binary executable:</b><br>
 To run simply double click the .exe file<br>
 <br>
-<h2>To run as python:</h2><br>
+<h2>To run as python:</h2>
 <b>Windows:</b><br>
   1: Open the folder where the .py is downloaded<br>
   2: Windows Shift + Right Click<br>
