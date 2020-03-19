@@ -1,3 +1,4 @@
+
 import keyboard
 import time
 
@@ -76,7 +77,6 @@ elif yesorno == 'n':
         x = 1
         while True:  
             while x < converted1:   
-                time.sleep(1)
                 if paused == 0:
                     time.sleep (settimec)
                     if yesorno == 'y':
